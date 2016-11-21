@@ -1,0 +1,1 @@
+The nxs-languagepack plugin adds support for additional languages
